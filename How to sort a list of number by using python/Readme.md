@@ -20,7 +20,7 @@ which is the best method for effective sorting. It's similar to the `sorted()` f
 **Method 3: In this method, we will use the slicing technique**
 
 which is `[::-1]`. This returns the result in descending order. Rather than using the reverse method, which we already explored from `sort()` and `sorted()` methods, this method is easier and effective for sorting a list of numbers in descending order.
-
+![**Example**](https://github.com/Sadhin404/professional-Certificate-In-Python-For-Machine-Learning-and-Data-Science-/blob/9d4e340973adeb1c563f0f12e98702d0f5379df8/How%20to%20sort%20a%20list%20of%20number%20by%20using%20python/carbon%20(1).png)
 
 
 **Method 4: We can use a lambda function with the `sorted()` function for more complex sorting criteria.** 
