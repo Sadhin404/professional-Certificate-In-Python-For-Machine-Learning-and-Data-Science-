@@ -26,9 +26,7 @@ which is `[::-1]`. This returns the result in descending order. Rather than usin
 **Method 4: We can use a lambda function with the `sorted()` function for more complex sorting criteria.** 
 
 In this method, we divide each number by 5, and the list of numbers will be sorted based on their remainders. We can also customize our lambda function based on specific sorting criteria.
-**Example**
-numbers = [5, 2, 9, 1]
-sorted_by_remainder = sorted(numbers, key=lambda x: x % 5)
+![**Example**](https://github.com/Sadhin404/professional-Certificate-In-Python-For-Machine-Learning-and-Data-Science-/blob/ae4d38551779f65dc9637e73892e05a85f3e41a3/How%20to%20sort%20a%20list%20of%20number%20by%20using%20python/carbon%20(2).png)
 
 
 **Method 5: We can use the `heapq` module for sorting large lists of numbers.**
