@@ -4,6 +4,10 @@
 
 
 
+
+
+
+
 **Method 1: We can use the `sorted()` function.**
 
 It's a built-in function that allows us to sort a list of numbers easily. This method is effective for sorting numerical data in a particular order, like ascending or descending. For descending order, we need to use the `reverse` parameter.
