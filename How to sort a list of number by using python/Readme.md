@@ -7,10 +7,8 @@
 **Method 1: We can use the `sorted()` function.**
 
 It's a built-in function that allows us to sort a list of numbers easily. This method is effective for sorting numerical data in a particular order, like ascending or descending. For descending order, we need to use the `reverse` parameter.
-**Example**
-numbers = [5, 2, 9, 1]
-sorted_numbers = sorted(numbers)
 
+![My Image](https://drive.google.com/uc?export=view&id=1234567890)
 
 **Method 2: We can use the `sort()` function**
 
