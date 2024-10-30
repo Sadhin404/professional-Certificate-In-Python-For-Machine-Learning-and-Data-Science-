@@ -13,18 +13,13 @@ It's a built-in function that allows us to sort a list of numbers easily. This m
 **Method 2: We can use the `sort()` function**
 
 which is the best method for effective sorting. It's similar to the `sorted()` function. We can also use the `reverse` parameter for descending order. The `sort()` function is much easier and straightforward for effective sorting.
-**Example**
-numbers = [5, 2, 9, 1]
-numbers.sort()
 
 
 
 **Method 3: In this method, we will use the slicing technique**
 
 which is `[::-1]`. This returns the result in descending order. Rather than using the reverse method, which we already explored from `sort()` and `sorted()` methods, this method is easier and effective for sorting a list of numbers in descending order.
-**Example**
-numbers = [5, 2, 9, 1]
-sorted_numbers = numbers[::-1]
+
 
 
 **Method 4: We can use a lambda function with the `sorted()` function for more complex sorting criteria.** 
