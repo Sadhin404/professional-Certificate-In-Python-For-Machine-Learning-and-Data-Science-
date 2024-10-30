@@ -8,7 +8,7 @@
 
 It's a built-in function that allows us to sort a list of numbers easily. This method is effective for sorting numerical data in a particular order, like ascending or descending. For descending order, we need to use the `reverse` parameter.
 
-![My Image](https://drive.google.com/uc?export=view&id=1234567890)
+![My Image](https://drive.google.com/file/d/1q7oN3ZCSio1Sj86dWIhZU3KN7v1gi0gs/view?usp=drivesdk)
 
 **Method 2: We can use the `sort()` function**
 
