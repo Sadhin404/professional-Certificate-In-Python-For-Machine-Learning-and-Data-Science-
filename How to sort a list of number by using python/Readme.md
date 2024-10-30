@@ -7,7 +7,7 @@
 **Method 1: We can use the `sorted()` function.**
 
 It's a built-in function that allows us to sort a list of numbers easily. This method is effective for sorting numerical data in a particular order, like ascending or descending. For descending order, we need to use the `reverse` parameter.
-![Alt text](https://drive.google.com/file/d/1q7oN3ZCSio1Sj86dWIhZU3KN7v1gi0gs/view?usp=drivesdk)
+![Alt text](https://github.com/Sadhin404/professional-Certificate-In-Python-For-Machine-Learning-and-Data-Science-/blob/bafafb7f2da479a3200fbc54e1b0af07bc7c578b/How%20to%20sort%20a%20list%20of%20number%20by%20using%20python/Screenshot_2024-10-30-19-40-48-740_com.android.chrome.png)
 
 
 **Method 2: We can use the `sort()` function**
