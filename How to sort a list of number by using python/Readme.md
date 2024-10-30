@@ -13,6 +13,7 @@ It's a built-in function that allows us to sort a list of numbers easily. This m
 **Method 2: We can use the `sort()` function**
 
 which is the best method for effective sorting. It's similar to the `sorted()` function. We can also use the `reverse` parameter for descending order. The `sort()` function is much easier and straightforward for effective sorting.
+![**Example**](https://github.com/Sadhin404/professional-Certificate-In-Python-For-Machine-Learning-and-Data-Science-/blob/bafafb7f2da479a3200fbc54e1b0af07bc7c578b/How%20to%20sort%20a%20list%20of%20number%20by%20using%20python/Screenshot_2024-10-30-19-40-48-740_com.android.chrome.png)
 
 
 
