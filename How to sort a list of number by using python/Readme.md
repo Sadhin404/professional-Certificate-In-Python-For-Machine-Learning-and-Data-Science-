@@ -7,8 +7,8 @@
 **Method 1: We can use the `sorted()` function.**
 
 It's a built-in function that allows us to sort a list of numbers easily. This method is effective for sorting numerical data in a particular order, like ascending or descending. For descending order, we need to use the `reverse` parameter.
+![Alt text](https://drive.google.com/file/d/1q7oN3ZCSio1Sj86dWIhZU3KN7v1gi0gs/view?usp=drivesdk)
 
-![My Image](https://drive.google.com/file/d/1q7oN3ZCSio1Sj86dWIhZU3KN7v1gi0gs/view?usp=drivesdk)
 
 **Method 2: We can use the `sort()` function**
 
